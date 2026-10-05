@@ -2,7 +2,7 @@
 
 ## TaskManager
 
-Sistema para gerenciamento de terefas.
+Sistema para gerenciamento de tarefas.
 
 Conclusão de tarefas
 
